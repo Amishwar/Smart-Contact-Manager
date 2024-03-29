@@ -1,0 +1,43 @@
+body{
+	background:#e2e2e2!important;
+}
+
+.bg-primary{
+	background:#009688!important;
+}
+
+.banner{
+	width:100%;
+	height:93vh;
+	background:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url(../img/banner.jpg);
+	background-size:cover;
+	color:white;
+		
+}
+
+.my-card{
+	border-radius: 40px;
+	padding : 20px;
+	background: #ffffff;
+}
+.image{
+	display:block;
+	width:50px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.form-control{
+	border-radius: 40px;
+}
+
+
+.btn{
+	border-radius: 40px;
+}
+
+<link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+
+
+
+
